@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c715b87247eb49958a0ede40a2b4c724/artifacts
+end_time: 1738814402814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c715b87247eb49958a0ede40a2b4c724
+run_name: fun-pug-775
+run_uuid: c715b87247eb49958a0ede40a2b4c724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738814402645
+status: 3
+tags: []
+user_id: hario
